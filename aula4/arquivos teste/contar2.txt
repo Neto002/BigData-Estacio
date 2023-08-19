@@ -1,0 +1,1 @@
+{"Maria": 7, "João": 4, "Larissa": 23, "Fabio": 0, "Raimundo": 11}
